@@ -1,2 +1,1 @@
-# interview-e2e-testing
-Practica para Choucair
+# project-e2e-testing
